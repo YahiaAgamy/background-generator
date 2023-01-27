@@ -29,6 +29,8 @@ console.log(clone2);
 console.log(superclone);
 
 
+// Objects new methods
+
 Object.keys
 Object.values
 Object.entries
